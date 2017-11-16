@@ -1,0 +1,20 @@
+body {
+	box-sizing: border-box;
+}
+
+#map {
+	height: 100vh;
+}
+
+.right {
+	padding: 40px;
+}
+
+.right h1 {
+	color: #22528e;
+	font-weight: bold;
+}
+
+.right h1, .right h2 {
+	padding: 25px;
+}
